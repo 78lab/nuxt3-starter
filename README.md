@@ -2,6 +2,15 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+You need to edit .env file for supabase.
+
+Follow the guide below. 
+
+## Supabase Nuxt3 Quickstart guide
+(https://supabase.com/docs/guides/with-nuxt-3)
+
+
+
 ## Setup
 
 Make sure to install the dependencies:
