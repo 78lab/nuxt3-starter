@@ -1,4 +1,4 @@
-# Nuxt 3 + Pinia + Supabase Starter
+# Nuxt 3 + Pinia + Supabase Starter Template
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
